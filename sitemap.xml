@@ -4,7 +4,7 @@
   <url>
     <loc>https://chansonzhang.github.io/about/index.html</loc>
     
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2023-09-14</lastmod>
     
   </url>
   
@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://chansonzhang.github.io/categories/index.html</loc>
+    <loc>https://chansonzhang.github.io/about/pub.html</loc>
     
     <lastmod>2021-07-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chansonzhang.github.io/about/pub.html</loc>
+    <loc>https://chansonzhang.github.io/categories/index.html</loc>
     
     <lastmod>2021-07-13</lastmod>
     
@@ -39,7 +39,7 @@
 
   <url>
     <loc>https://chansonzhang.github.io/</loc>
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,14 +47,14 @@
   
   <url>
     <loc>https://chansonzhang.github.io/tags/Hexo/</loc>
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chansonzhang.github.io/tags/Homepage/</loc>
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +63,7 @@
   
   <url>
     <loc>https://chansonzhang.github.io/categories/web%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-10-15</lastmod>
+    <lastmod>2023-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
